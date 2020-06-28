@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CustomRichText.cpp.obj": [
+			"CustomRichText.cpp.obj",
+			"CustomRichTextBlock.cpp.obj",
+			"CustomRichTextBlockImageDecorator.cpp.obj",
+			"RichTextBlockInlineDecorator.cpp.obj",
+			"RichTextFunctionLibrary.cpp.obj"
+		],
+		"Module.CustomRichText.gen.cpp.obj": [
+			"CustomRichText.init.gen.cpp.obj",
+			"CustomRichTextBlock.gen.cpp.obj",
+			"CustomRichTextBlockImageDecorator.gen.cpp.obj",
+			"RichTextBlockInlineDecorator.gen.cpp.obj",
+			"RichTextFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

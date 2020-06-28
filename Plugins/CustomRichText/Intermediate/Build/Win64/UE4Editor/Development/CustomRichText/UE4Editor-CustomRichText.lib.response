@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CustomRichText.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Intermediate\Build\Win64\CustomRichTextPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Development\CustomRichText\Module.CustomRichText.cpp.obj"
+"D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Development\CustomRichText\Module.CustomRichText.gen.cpp.obj"
+"D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Development\CustomRichText\Default.rc2.res"
+/OUT:"D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Development\CustomRichText\UE4Editor-CustomRichText.lib"
+/INCLUDE:IMPLEMENT_MODULE_CustomRichText

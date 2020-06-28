@@ -1,0 +1,55 @@
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Development\CustomRichText\Definitions.CustomRichText.h
+D:/Epic Games/Unreal Projects/CustomRichTextPlugin/Plugins/CustomRichText/Source/CustomRichText/Private/CustomRichText.cpp
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Source\CustomRichText\Public\CustomRichText.h
+D:/Epic Games/Unreal Projects/CustomRichTextPlugin/Plugins/CustomRichText/Source/CustomRichText/Private/CustomRichTextBlock.cpp
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Source\CustomRichText\Public\CustomRichTextBlock.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/RichTextBlock.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/TextWidgetTypes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\TextWidgetTypes.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\RichTextBlock.generated.h
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Inc\CustomRichText\CustomRichTextBlock.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Editor/WidgetCompilerLog.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Source\CustomRichText\Public\RichTextBlockInlineDecorator.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/RichTextBlockDecorator.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateRun.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/ILayoutBlock.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/IRunRenderer.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/ITextDecorator.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\RichTextBlockDecorator.generated.h
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Inc\CustomRichText\RichTextBlockInlineDecorator.generated.h
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Source\CustomRichText\Public\CustomRichTextBlockImageDecorator.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/RichTextBlockImageDecorator.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\RichTextBlockImageDecorator.generated.h
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Inc\CustomRichText\CustomRichTextBlockImageDecorator.generated.h
+D:/Epic Games/Unreal Projects/CustomRichTextPlugin/Plugins/CustomRichText/Source/CustomRichText/Private/CustomRichTextBlockImageDecorator.cpp
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextRun.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayout.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Fonts/FontMeasure.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScaleBox.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SScaleBox.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/DefaultValueHelper.h
+D:/Epic Games/Unreal Projects/CustomRichTextPlugin/Plugins/CustomRichText/Source/CustomRichText/Private/RichTextBlockInlineDecorator.cpp
+D:/Epic Games/Unreal Projects/CustomRichTextPlugin/Plugins/CustomRichText/Source/CustomRichText/Private/RichTextFunctionLibrary.cpp
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Source\CustomRichText\Public\RichTextFunctionLibrary.h
+D:\Epic Games\Unreal Projects\CustomRichTextPlugin\Plugins\CustomRichText\Intermediate\Build\Win64\UE4Editor\Inc\CustomRichText\RichTextFunctionLibrary.generated.h
